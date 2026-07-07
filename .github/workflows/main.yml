@@ -26,6 +26,7 @@
 # SapMachine 2022-06-22: Change the name of the GitHub Action
 name: 'SapMachine GHA Sanity Checks'
 
+
 on:
   push:
     # SapMachine 2026-06-01: do not trigger github actions for docs files
